@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+#google cloud credentials
+/credentials/*.json
+
+# SQLite
+*.sqlite3

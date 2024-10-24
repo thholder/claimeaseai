@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+# Ignore environment variables file
+backend/.env
+
+# Ignore service account keys
+**/service-account-key.json
+**/client_secret.json
+
+# Ignore virtual environment
+venv/
+
+# Ignore __pycache__
+**/__pycache__/
+
+# Ignore IDE/editor configuration files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Google Cloud credentials
+/credentials/*.json

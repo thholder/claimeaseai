@@ -1,0 +1,9 @@
+to get vue service to start in dev use cmd or powershell and run 
+
+cd frontend
+npm run serve
+
+
+to activate venv 
+in project root dir use cmd or powershell and run
+venv\Scripts\activate

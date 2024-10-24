@@ -1,0 +1,25 @@
+I went through hurricane Helene and Milton and have a lot of damaged items in the house. I want to create software to help catalog and document the items damaged and lost due to the storm to report to the insurance company. The requirements from the insurance company is to send them an Excel spreadsheet with the information requested in cells through a row.
+Can we create software using AI that will assist in identifying items in photos and suggest the requirements for the user.
+I want the software to take an excel spreadsheet to identify the fields needed. then to assist in documentation of items via a camera on the phone or from photos. the photos could number in the hundreds or more. the user will present them in bulk and needs assistance identifying one or multiple items in a photo and reduce duplicate entrees due to multiple photos at different angles.
+the items identified need to be found at retailers, auctions, collections to identify the replacement price.
+the end result is an excel spreadsheet that is exported to the user to be emailed to the insurance company that is setup just like the one imported but populated with the data needed.
+
+for the user photo storage i want the user to use their own google drive instead of storing the data on my own servers to mitigate cost and risk. for the front end we are using Vue.js, Backend we are using Django, image storage we are using the users google drive and or Google cloud storage, Google Vision API for item recognition, generates the Excel report using Python (pandas) and stores it back in Google Drive (or offers a download link). for service using Google Cloud run. 
+
+is there anything missing in this Architecture?
+
+
+the current name of this project is 'claimeaseai'
+gcloud project id is 'claimeaseai-439601'
+my GitHub username is thholder
+the GitHub repository for this project is 'claimeaseai'
+
+
+the current name of this project is 'claimeaseai'
+gcloud project id is 'claimeaseai-439601'
+my GitHub username is thholder
+the GitHub repository for this project is 'claimeaseai'
+
+for every code modifications please state name of the file i am to modify and its directory location
+
+nothing has been created, I have VB code and github, no repositories, installed on windows 11. where do we start?
